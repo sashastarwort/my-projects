@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716491142 source:c:\users\Олександра\desktop\ргрПРОГА\rgrproga\untitled1.c
+	<SFML/Graphics.h>
+	<stdbool.h>
+

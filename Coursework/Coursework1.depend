@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1713097503 source:c:\users\Олександра\desktop\coursework1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"common.h"
+	"Mfill.h"
+	"Vfill.h"
+	"Vsort.h"
+	"Msort.h"
+	"Measurement.h"
+
+1713097321 c:\users\Олександра\desktop\coursework1\common.h
+
+1713005282 c:\users\Олександра\desktop\coursework1\mfill.h
+
+1713097626 source:c:\users\Олександра\desktop\coursework1\mfill.c
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	"Mfill.h"
+
+1713097645 source:c:\users\Олександра\desktop\coursework1\vfill.c
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	"Vfill.h"
+
+1712483533 c:\users\Олександра\desktop\coursework1\vfill.h
+
+1712125743 c:\users\Олександра\desktop\coursework1\vsort.h
+	<time.h>
+
+1713025958 source:c:\users\Олександра\desktop\coursework1\vsort.c
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	"Vsort.h"
+	<time.h>
+
+1713097229 source:c:\users\Олександра\desktop\coursework1\msort.c
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	"Msort.h"
+	<time.h>
+
+1712173965 c:\users\Олександра\desktop\coursework1\msort.h
+	<time.h>
+
+1712776778 source:c:\users\Олександра\desktop\coursework1\table.c
+	<stdlib.h>
+	<stdio.h>
+	"table.h"
+	"common.h"
+	"Measurement.h"
+
+1712084053 c:\users\Олександра\desktop\coursework1\table.h
+
+1712679063 source:c:\users\Олександра\desktop\coursework1\measurement.c
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	"Mfill.h"
+	"Vfill.h"
+	"Vsort.h"
+	"Msort.h"
+	"Measurement.h"
+
+1713006815 c:\users\Олександра\desktop\coursework1\measurement.h
+	<time.h>
+
